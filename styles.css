@@ -10,6 +10,12 @@
 .color10 { color:#aabe9b };
 .color11 { color:#161616 };
 
+.colorm {color: #FFFFFF;}
+.colors {color: #CCA62D;}
+.colort {color: #4980B9;}
+
+
+
 body{
     background-color: #161616;
 
@@ -17,11 +23,11 @@ body{
 
 main{
     position: absolute;
-    background-color:#e5e5e5 ;
+    background-color:#FFFFFF ;
     margin: 100px;
     padding: 30px;
     border-style: outset;
-    border-color: #c5b88f;
+    border-color: #4980B9;
     border-width: thick;
     border-radius: 10px;
 
@@ -35,7 +41,7 @@ body{
 aside{
     float: left;
     width: 376px;
-    background-color: #aabe9b;
+    background-color:#c5b88f;
     margin: 10px;
 }
 
@@ -46,9 +52,31 @@ article{
     
 }
 
-.titulo{
-    font-size: larger;
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 90px;
     font-style: normal;
-    font-weight: bolder;
-    color: #aabe9b;
+    font-weight: bold;
+    font-stretch: extra-expanded;
+    color: #4980B9;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 2px;
+}
+
+/*h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: extra-expanded;
+    color: #000000;
+    margin-left: 20px;
+    margin-bottom: 1px;
+}*/
+
+.rule{
+    border: none;
+    height: 5px;
+    background:#4980B9;
 }
