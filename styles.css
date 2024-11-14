@@ -3,13 +3,26 @@
 .color3 {color: #201c06;}
 .color4 {color: #7b7974;}
 .color5 {color: #e5e5e5;}
-
+.color6 { color:#230b00 };
+.color7 { color:#a29d7f };
+.color8 { color:#d4cfa5 };
+.color9 { color:#f8ecd4 };
+.color10 { color:#aabe9b };
+.color11 { color:#161616 };
 
 body{
+    background-color: #161616;
+}
+
+main{
     background-color:#e5e5e5 ;
     margin: 100px;
     padding: 30px;
     border-style: outset;
     border-color: #c5b88f;
     border-width: thick;
+}
+
+body{
+    background-color: #161616;
 }
