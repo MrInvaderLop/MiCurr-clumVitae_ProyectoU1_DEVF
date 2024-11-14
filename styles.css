@@ -12,6 +12,7 @@
 
 body{
     background-color: #161616;
+
 }
 
 main{
@@ -21,8 +22,15 @@ main{
     border-style: outset;
     border-color: #c5b88f;
     border-width: thick;
+    border-radius: 10px;
+
 }
 
 body{
     background-color: #161616;
+}
+
+
+aside{
+
 }
