@@ -1,0 +1,15 @@
+.color1 {color: #c5b88f;}
+.color2 {color: #e1ddc1;}
+.color3 {color: #201c06;}
+.color4 {color: #7b7974;}
+.color5 {color: #e5e5e5;}
+
+
+body{
+    background-color:#e5e5e5 ;
+    margin: 100px;
+    padding: 30px;
+    border-style: outset;
+    border-color: #c5b88f;
+    border-width: thick;
+}
