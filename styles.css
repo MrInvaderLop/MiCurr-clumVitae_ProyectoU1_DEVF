@@ -45,3 +45,10 @@ article{
     margin: 10px;
     
 }
+
+.titulo{
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+    color: #aabe9b;
+}
