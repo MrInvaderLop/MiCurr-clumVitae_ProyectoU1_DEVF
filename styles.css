@@ -41,7 +41,7 @@ body{
 aside{
     float: left;
     width: 376px;
-    background-color:#c5b88f;
+    background-color:#C0C9D3;
     margin: 10px;
 }
 
@@ -64,19 +64,70 @@ h1{
     margin-top: 2px;
 }
 
-/*h2{
-    font-family: 'Times New Roman', Times, serif;
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: normal;
     font-stretch: extra-expanded;
-    color: #000000;
+    color: #161718;
     margin-left: 20px;
     margin-bottom: 1px;
-}*/
+}
 
 .rule{
     border: none;
     height: 5px;
     background:#4980B9;
+}
+
+.rightside{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: extra-expanded;
+    color: #161718;
+    margin-left: 20px;
+    margin-bottom: 1px;
+}
+
+.gustos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: extra-expanded;
+    color: #161718;
+    margin-left: 30px;
+    margin-bottom: 1px;
+}
+
+.escuela{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: extra-expanded;
+    color: #161718;
+    margin-left: 30px;
+    margin-bottom: 1px;
+
+}
+
+.subleftside{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: extra-expanded;
+    color: #161718;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.leftside{
+    text-align: center;
+    font-size: 20px;
+
 }
