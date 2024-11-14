@@ -16,6 +16,7 @@ body{
 }
 
 main{
+    position: absolute;
     background-color:#e5e5e5 ;
     margin: 100px;
     padding: 30px;
@@ -32,5 +33,15 @@ body{
 
 
 aside{
+    float: left;
+    width: 376px;
+    background-color: #aabe9b;
+    margin: 10px;
+}
 
+article{
+    float: right;
+    width: 600px;
+    margin: 10px;
+    
 }
