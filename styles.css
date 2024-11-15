@@ -1,18 +1,8 @@
-.color1 {color: #c5b88f;}
-.color2 {color: #e1ddc1;}
-.color3 {color: #201c06;}
-.color4 {color: #7b7974;}
-.color5 {color: #e5e5e5;}
-.color6 { color:#230b00 };
-.color7 { color:#a29d7f };
-.color8 { color:#d4cfa5 };
-.color9 { color:#f8ecd4 };
-.color10 { color:#aabe9b };
-.color11 { color:#161616 };
-
-.colorm {color: #FFFFFF;}
-.colors {color: #CCA62D;}
-.colort {color: #4980B9;}
+.color1 { color:#161616 };
+.color2 {color: #FFFFFF;}
+.color3 {color: #4980B9;}
+.color4 {color: #C0C9D3;}
+.color5 {color: #4980B9;}
 
 
 
@@ -130,4 +120,24 @@ h2{
     text-align: center;
     font-size: 20px;
 
+}
+
+.wp{
+    vertical-align: middle ;
+    margin: 5px;
+}
+
+.ig{
+    vertical-align: middle ;
+    margin: 5px;
+}
+
+.gh{
+    vertical-align: middle ;
+    margin: 5px;
+}
+
+.correo{
+    vertical-align: middle ;
+    margin: 5px;
 }
