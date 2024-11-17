@@ -73,3 +73,14 @@ main{
     text-align: center;
     margin-bottom: 1px;
 }
+
+.request{
+    position: relative;
+    margin-left: 300px;
+    text-align: left;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #2e6ca4;} ;
+
+}
