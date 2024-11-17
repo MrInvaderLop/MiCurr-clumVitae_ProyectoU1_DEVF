@@ -24,6 +24,9 @@ utilidad para hacer de tu página algo que disfrutes, cada vez que observo los c
     <li>Finalmente, en el apartado <b>Let´s Colaborate</b> muestro un agradecimiento por visitar la página e invito al usuario a registrarse en un formulario para poder contactarlo y así compartir vivencias algún día. </li>
   </ul>
 
+  <p>Enlace del proyecto en GitHub Pages: <a href="https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/">https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/</p>
+  <p>Enlace del repositorio GitHub: <a href="https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF">https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF</p>
+
 <h2>Información del autor:</h2>
 <p>El desarrollador de este proyecto es Joel López.</p>
 <p>Contáctame: <a href="mailto:joel.ernestolv@gmail.com">joel.ernestolv@gmail.com</a></p>
