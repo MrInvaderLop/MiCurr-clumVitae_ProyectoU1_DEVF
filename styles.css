@@ -141,3 +141,19 @@ h2{
     vertical-align: middle ;
     margin: 5px;
 }
+
+.low{
+    position: sticky;
+    background-color:#FFFFFF ;
+    margin: 100px;
+    margin-top: 1370px;
+    padding: 3px;
+    width: 1070px;
+    border-style: outset;
+    border-color: #4980B9;
+    border-width: thick;
+    border-radius: 10px;
+
+    text-align: center;
+    font-size: 18px;
+}
