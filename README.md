@@ -26,8 +26,8 @@ utilidad para hacer de tu página algo que disfrutes, cada vez que observo los c
 
 <h2>Información del autor:</h2>
 <p>El desarrollador de este proyecto es Joel López.</p>
-<p>Contáctame: <a href: joel.ernestolv@gmail.com>joel.ernestolv@gmail.com</a></p>
-<p>Programador Senior. Derechos Reservados.</p>
+<p>Contáctame: <a href="mailto:joel.ernestolv@gmail.com">joel.ernestolv@gmail.com</a></p>
+<p>Programador Senior. © Derechos Reservados.</p>
 
 
 
