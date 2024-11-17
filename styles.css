@@ -11,10 +11,28 @@ body{
 
 }
 
+.barra{
+    position: fixed;
+    background-color:#FFFFFF ;
+    top: 0px;
+    left: 0px;
+    padding: 3px;
+    width: 100%;
+    border-style:ridge;
+    border-color: #4980B9;
+    border-width: thick;
+
+    text-align: center;
+    font-size: 22px;
+
+    z-index: 1;
+}
+
 main{
-    position: absolute;
+    position:absolute;
     background-color:#FFFFFF ;
     margin: 100px;
+    margin-top: 140px;
     padding: 30px;
     border-style: outset;
     border-color: #4980B9;
@@ -143,10 +161,10 @@ h2{
 }
 
 .low{
-    position: sticky;
+    position: absolute;
     background-color:#FFFFFF ;
     margin: 100px;
-    margin-top: 1370px;
+    margin-top:1395px;
     padding: 3px;
     width: 1070px;
     border-style: outset;
@@ -156,4 +174,10 @@ h2{
 
     text-align: center;
     font-size: 18px;
+}
+
+.indice{
+    display: inline;
+    margin-right: 80px;
+    vertical-align: middle;
 }
