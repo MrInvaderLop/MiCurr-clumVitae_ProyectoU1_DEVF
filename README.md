@@ -25,7 +25,7 @@ utilidad para hacer de tu página algo que disfrutes, cada vez que observo los c
   </ul>
 
   <p>Enlace del proyecto en GitHub Pages: <a href="https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/">https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/</p>
-  <p>Enlace del repositorio GitHub: <a href="https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF">https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF</p>
+  <p>Clona este repositorio aquí <a href="https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git">https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git</p>
 
 <h2>Información del autor:</h2>
 <p>El desarrollador de este proyecto es Joel López.</p>
