@@ -1,0 +1,49 @@
+.color1 { color:#161616 };
+.color2 {color: #FFFFFF;}
+.color3 {color: #4980B9;}
+.color4 {color: #C0C9D3;}
+.color5 {color: #4980B9;}
+.color6 {color: #2e6ca4;}
+
+
+
+body{
+    background-color: #161616;
+
+}
+
+.barra{
+    position: fixed;
+    background-color:#FFFFFF ;
+    top: 0px;
+    left: 0px;
+    padding: 3px;
+    width: 100%;
+    border-style:ridge;
+    border-color: #4980B9;
+    border-width: thick;
+
+    text-align: center;
+    font-size: 22px;
+
+    z-index: 1;
+}
+
+main{
+    position:absolute;
+    background-color:#FFFFFF ;
+    margin: 100px;
+    margin-top: 140px;
+    padding: 30px;
+    border-style: outset;
+    border-color: #4980B9;
+    border-width: thick;
+    border-radius: 10px;
+
+}
+
+.indice{
+    display: inline;
+    margin-right: 80px;
+    vertical-align: middle;
+}
